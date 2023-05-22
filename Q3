@@ -1,0 +1,9 @@
+length = float(input("enter the length: "))
+
+breadth = float(input("enter the breadth: "))
+
+height = float(input("enter the height: "))
+
+volume = length*breadth*height
+
+print("The required volume is:", volume)
