@@ -1,0 +1,5 @@
+X = float(input("Enter A: ")) 
+Y = float(input("Enter B: "))
+S = X + Y
+AVG = S / 2
+print("Average = ", AVG)
