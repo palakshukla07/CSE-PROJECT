@@ -1,15 +1,26 @@
 # CSE-PROJECT Group B
 We were assigned the 2nd Sem Group Project by our Professor Dr.Sayed Mohammed Zeeshan.
-A total of 10 questions were given and these codes are written in this repository.
+
 The group members are:
+
 PALAK SHUKLA 22BCE10251
+
 SHATAKSHI GUHA 22BCE11589
+
 AISHWARY SINGH 22BCE11525
+
 SANYA MAURYA 22BCE11436
+
 ANSHUMAN NAYAK 22BCE10796
+
 HARSH RAI 22BCE11429
+
 BHASKAR RAI 22BCE11245
+
 ANSH NAYAN GUPTA 	22BAI10337
+
 VINAYAK BHANWAR	22BCE11478
+
 SHISHANT SINGH	22BCE11493
+
 SRAYASH KUMAR	22BCE11520
