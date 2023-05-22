@@ -1,0 +1,4 @@
+H = int(input("total hours worked on a day:"))
+R = int(input("rate of pay per hour:"))
+W = H*R
+print(W)
